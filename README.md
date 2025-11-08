@@ -1,8 +1,8 @@
-# MMC Forge Electron Template
+# MMC Forge Electron App
 
-A modern Electron application template maintained by MMC Forge, featuring React, Vite, TypeScript, Shadcn UI, and TailwindCSS. This project provides a solid foundation for developing cross-platform desktop applications.
+A modern Electron application built with React, Vite, TypeScript, Shadcn UI, and TailwindCSS. This project provides a solid foundation for developing cross-platform desktop applications.
 
-> **Attribution**: This template is based on the excellent work by [Guasam](https://github.com/guasam) from [electron-react-app](https://github.com/guasam/electron-react-app). MMC Forge maintains this fork with organizational customizations and updates.
+> **Attribution**: This project is based on the excellent work by [Guasam](https://github.com/guasam) from [electron-react-app](https://github.com/guasam/electron-react-app). MMC Forge maintains this with organizational customizations and updates.
 
 <br />
 
@@ -52,30 +52,20 @@ A modern Electron application template maintained by MMC Forge, featuring React,
 
 <br />
 
-## 🚀 Using This Template
+## Installation
 
-### Quick Start (Recommended)
-
-1. **Click "Use this template"** on GitHub to create your own repository
-2. **Clone your new repository**
-3. **Run the setup script**: `node setup-template.js`
-4. **Install dependencies**: `npm install` (or pnpm/yarn/bun)
-5. **Start developing**: `npm run dev`
-
-### Manual Installation
+Clone the repository:
 
 ```bash
 # Clone the repository
-git clone https://github.com/mmcforge/electron-template your-project-name
+git clone https://github.com/mmcforge/electron-template
 
 # Change directory
-cd your-project-name
+cd electron-template
 
 # Install dependencies (use any package manager: npm, yarn, pnpm, bun)
 npm install
 ```
-
-📖 **For detailed usage instructions, see [TEMPLATE_USAGE.md](TEMPLATE_USAGE.md)**
 
 <br />
 

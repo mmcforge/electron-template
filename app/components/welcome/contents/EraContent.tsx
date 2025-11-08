@@ -21,16 +21,16 @@ const EraContent = () => {
   return (
     <div>
       <h2 className="flex items-center gap-4">
-        MMC Forge Electron Template
+        MMC Forge Electron App
         <div className="p-1 rounded-md bg-primary/10">
           <img src="res://icons/era.svg" className="w-4 h-4" />
         </div>
       </h2>
       <p>
-        Welcome to MMC Forge's Electron Template (v{appVersion})! A modern, pre-configured starter kit maintained by MMC Forge that provides a solid foundation for developing cross-platform desktop applications.
+        Welcome to MMC Forge's Electron App (v{appVersion})! A modern desktop application built with the latest web technologies for cross-platform compatibility.
       </p>
       <p>
-        This template is built with Electron, React, Vite, TypeScript, Shadcn UI, and Tailwind CSS to provide a cutting-edge development environment with the latest features and best practices.
+        This application is built with Electron, React, Vite, TypeScript, Shadcn UI, and Tailwind CSS to provide a cutting-edge user experience with modern features and best practices.
       </p>
 
       <div className="welcome-content-steps">
@@ -60,7 +60,7 @@ const EraContent = () => {
       </div>
 
       <p className="learn-more">
-        Learn more about this template at{' '}
+        Learn more about this project at{' '}
         <a href="https://github.com/mmcforge/electron-template" target="_blank" rel="noreferrer">
           MMC Forge GitHub
         </a>
