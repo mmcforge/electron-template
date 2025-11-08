@@ -1,0 +1,35 @@
+# Dependencies
+node_modules
+
+# Build outputs
+dist
+out
+
+# System files
+.DS_Store
+
+# Logs
+*.log*
+temp
+
+# Lock files (let users generate their own)
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+bun.lockb
+
+# IDE and editor files
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Template setup (users should delete after setup)
+setup-template.js
